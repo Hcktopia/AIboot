@@ -87,7 +87,6 @@ $(document).ready(function () {
         <ul>
             <li>Review your current budget and identify areas where you can cut back on unnecessary expenses.</li>
             <li>Set clear financial goals and create a plan to achieve them.</li>
-            <li>Consider speaking with a certified financial planner for personalized advice.</li>
         </ul>`
 		aiResponseDiv.html(aiResponse).show()
 	})
